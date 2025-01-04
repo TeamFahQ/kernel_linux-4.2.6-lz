@@ -1,3 +1,5 @@
+26574fe23d36 Thomas Raines 2025-01-03 Merge branch '6.12' of https://gitlab.com/xanmod/linux into 6.12
+1c518060f480 Thomas Raines 2025-01-01 6.12.7: Added LZ tweaks and fixes
 edaf5936bc34 Thomas Raines 2025-01-01 Merge branch '6.12' of https://gitlab.com/xanmod/linux into 6.12
 d99234eb8b6a Thomas Raines 2025-01-01 readahea tweak:fix incompatible pointer type error
 05cc7c9b5a1b Thomas Raines 2024-12-29 Update driver nct6687
